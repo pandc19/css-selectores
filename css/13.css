@@ -1,0 +1,21 @@
+/* ul li:nth-child(1),
+ul li:nth-child(3),
+ul li:nth-child(5) {
+    border: 2px solid red;
+} */
+
+/* ul li:nth-child(2n+1) {
+    border: 2px solid red;
+} */
+
+/* ul li:nth-child(odd) {
+    border: 2px solid red;
+} */
+
+/* ul li:nth-child(even) {
+    border: 2px solid red;
+} */
+
+ul li:nth-child(4n+4) {
+    border: 2px solid red;
+}
